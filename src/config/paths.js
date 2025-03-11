@@ -21,4 +21,4 @@ export const NO_LEFTSWIPE_PATHS = ["/auth/login", "/auth/registerUser"];
 // export const SERVER_API_BASE = "localhost:8080/api";
 
 export const PROTOCOL = "https";
-export const SERVER_API_BASE = "ixn-backend.onrender.com/api";
+export const SERVER_API_BASE = "ixn-backend-4s6q.onrender.com/api";
